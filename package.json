@@ -1,0 +1,28 @@
+{
+  "name": "eloquent_js_exercises",
+  "version": "1.0.0",
+  "description": "Exercises from Eloquent JavaScript with test cases",
+  "scripts": {
+    "start": "jest --watchAll",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imtiaz101325/eloquent_js_exercises.git"
+  },
+  "keywords": [
+    "js",
+    "exercise",
+    "testing"
+  ],
+  "author": "Sk Imtiaz Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imtiaz101325/eloquent_js_exercises/issues"
+  },
+  "homepage": "https://github.com/imtiaz101325/eloquent_js_exercises#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  },
+  "type": "module"
+}
