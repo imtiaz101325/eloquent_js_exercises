@@ -1,9 +1,9 @@
-const question = require('./question');
+const solution = require('./solution');
 
 describe(
   'Loop a triangle', () => {
     it('Prints a Triangle', () => {
-        expect(question()).toBe(
+        expect(solution()).toBe(
 `#
 ##
 ###
@@ -12,6 +12,6 @@ describe(
 ######
 #######`
         );
-    })
+    });
   }
-)
+);

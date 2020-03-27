@@ -1,10 +1,10 @@
-const question = require('./question');
+const solution = require('./solution');
 
 describe(
   'Print FizzBuzz from 1 to 100', () => {
     it('Prints FizzBuzz', () => {
         console.log = jest.fn();
-        question();
+        solution();
 
         let correct = true;
 
@@ -37,6 +37,6 @@ describe(
         }
 
         expect(correct).toBe(true);
-    })
+    });
   }
-)
+);
