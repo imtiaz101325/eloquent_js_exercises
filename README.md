@@ -18,4 +18,4 @@ Go to the exercise and fill out your code. Run the tests to see if you passed:
   npm start
 ```
 
-![example]('assets/readme_eg_1.png)
+![example](assets/readme_eg_1.png)
