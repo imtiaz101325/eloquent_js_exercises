@@ -4,11 +4,11 @@ describe('Chess board', () => {
   it('returns expected output', () => {
     expect(solution()).toBe(` # # # #
 # # # # 
-  # # # #
+ # # # #
 # # # # 
-  # # # #
+ # # # #
 # # # # 
-  # # # #
+ # # # #
 # # # # `);
   });
 });
