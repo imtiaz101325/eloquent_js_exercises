@@ -5,7 +5,7 @@
  */
 function beanCounting() {
   // Your code goes here
-
+  // modify the function below
   return function name(params) {
     
   }
